@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="iRadio">iRadio.png</file>
+        <file alias="Close">close.png</file>
+        <file alias="FranceInfo">franceinfo.png</file>
+        <file alias="Nostalgie">nostalgie.png</file>
+    </qresource>
+</RCC>
