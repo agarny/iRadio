@@ -55,7 +55,7 @@ void ClickableLabel::mousePressEvent(QMouseEvent *pEvent)
 static const auto SettingsRadio   = QStringLiteral("Radio");
 static const auto SettingsVolume  = QStringLiteral("Volume");
 static const auto FranceInfoRadio = QStringLiteral("https://direct.franceinfo.fr/live/franceinfo-midfi.mp3");
-static const auto NostalgieRadio  = QStringLiteral("https://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3");
+static const auto NostalgieRadio  = QStringLiteral("http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3");
 
 //==============================================================================
 
